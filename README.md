@@ -1,4 +1,4 @@
-# git
+# git Hac?nJXOWjF&2zbIIG?&RF.zQ@(4;u7z
 
 What is meant by version control?
 
@@ -24,3 +24,4 @@ git status -s
 git log --oneline
 
 git checkout -- commit level checkout(read only), file level checkout
+
